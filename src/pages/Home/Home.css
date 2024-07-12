@@ -37,9 +37,9 @@
 .hero input{
     flex: 1;
     font-size: 16px;
+    max-width: 250px;
     outline: none;
     border: none;
-    margin: auto;
     padding-left: 10px;
 }
 
